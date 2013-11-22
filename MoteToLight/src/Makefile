@@ -1,0 +1,2 @@
+COMPONENT=MoteToLightAppC
+include $(MAKERULES)
